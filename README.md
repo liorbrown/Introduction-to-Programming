@@ -9,16 +9,6 @@ a first-year engineering course at **Ariel University**.
 This repository contains materials used in the practical sessions (תרגולים) accompanying the course.  
 It focuses on developing fundamental programming skills and computational thinking using **Python**.
 
-**Topics include:**
-- Basic syntax and variables  
-- Control flow (conditions, loops)  
-- Functions and modular programming  
-- Lists, strings, and basic data structures  
-- Debugging and problem-solving strategies  
-- Algorithmic thinking and computational efficiency  
-
----
-
 ## 📂 Repository Structure
 | Folder | Description |
 |--------|-------------|
