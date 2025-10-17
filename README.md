@@ -13,7 +13,7 @@ It focuses on developing fundamental programming skills and computational thinki
 | Folder | Description |
 |--------|-------------|
 | **Presentations/** | Lecture & exercise slides (PowerPoint / PDF) |
-| **Code/** | Code samples and demonstrations shown in class |
+| **Exercises/** | Code samples and demonstrations shown in class |
 | **Assignments/** | Homework or practice problems |
 | **Solutions/** | Selected solutions and explanations |
 
