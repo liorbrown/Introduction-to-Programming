@@ -12,7 +12,7 @@ It focuses on developing fundamental programming skills and computational thinki
 ## 📂 Repository Structure
 | Folder | Description |
 |--------|-------------|
-| **Presentations/** | Exercise slides (PowerPoint / PDF) |
+| **Presentations/** | Lecture & exercise slides (PowerPoint / PDF) |
 | **Exercises/** | Code samples and demonstrations shown in class |
 | **Assignments/** | Homework or practice problems |
 | **Solutions/** | Selected solutions and explanations |
